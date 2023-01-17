@@ -1,0 +1,544 @@
+Customer.name,Location.name,Location.city,Unit.name,Unit.slug,Component.slug,Inspection.slug,Component.wall_nominal_thickness,Component.wall_warning_thickness,Component.coating_nominal_thickness
+Drax,Drax Power Station,"Drax, Selby",Unit 3,unit-3-67c2d7,waterwalls-2d58c6,20220727-969d7c,4.5,4,
+Florida Crystals,Okeelanta Biomass Cogeneration,South South Bay,Boiler #1,boiler-1-f39cd5,right-wall-f0b264,20221226-302a69,0.2,0,0
+Purdue University,Wade Utility Plant,West Lafayette,Unit 5,unit-5-49ecf3,waterwalls-320ab0,20221208-a5eb08,0.18,0.135,0.02
+Purdue University,Wade Utility Plant,West Lafayette,Unit 5,unit-5-49ecf3,waterwalls-mi-2739a2,20221208-659a62,0.18,0.135,0.02
+Uniper,Maasvlakte,Maasvlakte Rotterdam,Coal Boiler,coal-boiler-44f314,waterwalls-eeddf2,20221203-03eb4e,,,
+AES,Petersburg,Petersburg,Boiler U3,unit-3-e43a85,bullnose-8c7706,20221116-e95eb3,0.25,0.1,
+GS EPS,Dangjin,Korea,Unit #2,unit-2-72d1be,watewalls-1974de,20221113-f93cd0,8.128,4,
+AES,Petersburg,Petersburg,Boiler U3,unit-3-e43a85,waterwalls-c88f18,20221111-177f5b,0.22,0.185,
+Lower Colorado River Authority,Sim Gideon,Bastrop,Unit 2,unit-2-c747aa,slopes-86fa8d,20221110-47f94e,0.203,0.1,
+Lower Colorado River Authority,Sim Gideon,Bastrop,Unit 2,unit-2-c747aa,waterwalls-ef0d15,20221110-b296dd,0.203,0.1,
+AES,Petersburg,Petersburg,Boiler U3,unit-3-e43a85,lower-slopes-c0de19,20221110-41ee8a,0.22,0.168,
+ALCOA,Alumar,Sao Luis,Unit 21,waterwalls-4964a2,side-walls-14461c,20221109-79b274,5.588,4.4704,0
+ALCOA,Alumar,Sao Luis,Unit 21,waterwalls-4964a2,sh-s2-wingwall-46e98f,20221109-55fcce,5.08,3.06,0
+ALCOA,Alumar,Sao Luis,Unit 21,waterwalls-4964a2,evaporator-wing-walls-9e7a7d,20221109-6a2b38,5.56,3.5,0
+JEA,Northside Generating Station,Jacksonville,CFB Boiler NO2,cfb-boiler-no2-95a7d1,waterwalls-94ad97,20221109-ac1b7a,0.187,0.18,
+JEA,Northside Generating Station,Jacksonville,CFB Boiler NO2,cfb-boiler-no2-95a7d1,division-walls-1aa8a7,20221109-ca64a2,0.335,0.25,
+Koch Industries (Corporate),Georgia-Pacific - Gurdon Softwood Plywood Mill,Gurdon,Unit 2,power-boiler-1-c2d297,front-wall-5924f6,20221107-0f7ed1,0.12,0,0
+Koch Industries (Corporate),Georgia-Pacific - Gurdon Softwood Plywood Mill,Gurdon,Unit 1,power-boiler-1-f9dd37,waterwalls-3a67e4,20221107-f3c8cf,,,
+Uniper,Maasvlakte,Maasvlakte Rotterdam,Coal Boiler,coal-boiler-44f314,waterwalls-eeddf2,20221103-8a719e,,,
+Uniper,Maasvlakte,Maasvlakte Rotterdam,Gas Boiler Demo,boiler-demo-390391,waterwalls-0103c9,20221025-3b5cbf,,3.8,
+Uniper,Maasvlakte,Maasvlakte Rotterdam,Gas Boiler Demo,boiler-demo-390391,roof-6463ac,20221025-224bd3,,,
+Aboitiz,Therma South (TSI),Davao City,Unit 2,unit-2-ca55d4,roof-tubes-e0bb23,20221021-14cfb5,0.25,0.2,
+Aboitiz,Therma South (TSI),Davao City,Unit 2,unit-2-ca55d4,waterwalls-24dc3c,20221015-725992,,,
+Aboitiz,Therma South (TSI),Davao City,Unit 2,unit-2-ca55d4,evaporator-wingwalls-e81a61,20221015-6cf161,6.4,2.3,
+Aboitiz,Therma South (TSI),Davao City,Unit 2,unit-2-ca55d4,superheater-wingwalls-f94a8d,20221015-9a976b,,,
+Aboitiz,Therma Visayas (TVI),Toledo City,Unit 1,unit-1-018baa,waterwalls-f29741,20221015-003a94,6.6,2.3,
+Aboitiz,Therma Visayas (TVI),Toledo City,Unit 1,unit-1-018baa,wingwalls-a4ecac,20221015-a314e7,6.6,2.3,
+Aboitiz,Therma Visayas (TVI),Toledo City,Unit 1,unit-1-018baa,roof-tubes-db16b7,20221015-45d712,6.6,2.3,
+Poseung green power,Biomass Power Plant,Pyeongtaek-si,CFB Boiler,cfb-boiler-fed672,waterwalls-7fa761,20221012-920e5f,5.6,2,
+"Ingredion, Inc.",Bedford Park,Bedford Park,Boiler 10,boiler-10-7055ca,waterwalls-2ae2c0,20221011-28df23,0.21,0.15,0
+"Ingredion, Inc.",Bedford Park,Bedford Park,Boiler 10,boiler-10-7055ca,wingwalls-2bcf71,20221011-2b26a1,0.21,0.15,0
+Hallador Power Company,Merom Generating Station,Sullivan,Unit 2,unit-2-cc04f4,right-wall-4ee870,20221011-18c8e9,0.28,0.16,0
+Hallador Power Company,Merom Generating Station,Sullivan,Unit 2,unit-2-cc04f4,left-wall-016813,20221011-7c7e5f,0.3,0.18,0
+Southern Co,Plant Scherer,Atlanta,Unit 1,unit-1-60a8c7,sidewalls-49c76e,20221011-d11633,0.2,0.14,
+Ebensburg Power Company,Ebensburg,Ebensburg,Unit 1,unit-10-5b3dfa,front-wingwalls-02ce1e,20221006-e5324e,0.24,0.168,0
+Ebensburg Power Company,Ebensburg,Ebensburg,Unit 1,unit-10-5b3dfa,waterwalls-94d724,20221004-0fff48,0.24,0.165,0
+Ebensburg Power Company,Ebensburg,Ebensburg,Unit 1,unit-10-5b3dfa,division-walls-551bb2,20221005-e639c9,0.24,0.168,0
+Ebensburg Power Company,Ebensburg,Ebensburg,Unit 1,unit-10-5b3dfa,wingwalls-a5793e,20221005-3572df,0.24,0.168,0
+AEP,AEP - Welsh Power Station,Pittsburg,Unit 3,unit-3-576a42,waterwalls-3fdeb0,20221004-103507,0.25,0.1,
+Duke Energy,Gibson Generating Station,Owensville,Unit 1,unit-1-c53151,waterwalls-719308,20221004-26bdfa,0.07,0.17,0.02
+Duke Energy,Gibson Generating Station,Owensville,Unit 1,unit-1-c53151,waterwalls-217aec,20221004-581e1e,0.25,0.1,
+Duke Energy,Gibson Generating Station,Owensville,Unit 1,unit-1-c53151,slopes-36f0b5,20221004-565f7b,0.25,0.1,
+AES,Petersburg,Petersburg,Boiler U4,unit-4-boiler-48c567,boiler-8ec2af,20221002-2b4e2a,0.222,0.154,0
+AES,Petersburg,Petersburg,Boiler U4,unit-4-boiler-48c567,front-slope-ef5d25,20221002-01eb84,0.222,0.1776,
+Dominion,Mt. Storm,Mt. Storm,Unit 1,lower-slopes-41bae4,waterwalls-5920ba,20220919-b520a5,0.188,0.12,
+LG&E,Mill Creek,Lousiville,Unit 3,unit-3-89302f,waterwalls-2b6b6b,20220922-f884ad,0.265,0.1,
+Dominion,Mt. Storm,Mt. Storm,Unit 1,lower-slopes-41bae4,division-wall-ebf2af,20220919-d8f7a8,0.24,0.1,0.02
+Dominion,Mt. Storm,Mt. Storm,Unit 1,lower-slopes-41bae4,division-wall-6fca58,20220921-4a5268,0.24,0.1,
+LG&E,Mill Creek,Lousiville,Unit 3,unit-3-89302f,front-slope-2a2791,20220920-4c3c6c,0.275,0.1,
+Stonghold Digital Mining,Scrubgrass Generating Plant,Kennerdell,Unit 1,unit-1-a78e3d,waterwalls-83acd7,20220920-970d99,0.22,0.1,
+Stonghold Digital Mining,Scrubgrass Generating Plant,Kennerdell,Unit 2,unit-2-62d140,waterwalls-70f0cb,20220920-782cf8,0.22,0.1,
+Dominion,Mt. Storm,Mt. Storm,Unit 1,lower-slopes-41bae4,lower-slope-front-18af34,20220919-f40fdc,0.188,0.12,0
+Dominion,Mt. Storm,Mt. Storm,Unit 1,lower-slopes-41bae4,lower-slope-front-a1ca9d,20220919-072202,0.188,0.12,0
+Dominion,Mt. Storm,Mt. Storm,Unit 1,lower-slopes-41bae4,waterwalls-5920ba,20220919-35548d,0.188,0.12,
+Dominion,Mt. Storm,Mt. Storm,Unit 1,lower-slopes-41bae4,waterwalls-5920ba,20220917-b520a5,0.188,0.12,
+Aboitiz,Therma South (TSI),Davao City,Unit 1,unit-1-54d8ab,roof-tubes-8c4feb,20220902-de25fd,5.08,3,
+Aboitiz,Therma South (TSI),Davao City,Unit 1,unit-1-54d8ab,waterwalls-51a1f7,20220824-d8b1d5,5.08,1,
+Aboitiz,Therma South (TSI),Davao City,Unit 1,unit-1-54d8ab,evaporator-wingwalls-f7f4bc,20220824-106ac1,5.08,3,
+Aboitiz,Therma South (TSI),Davao City,Unit 1,unit-1-54d8ab,superheater-wingwalls-4af9c9,20220824-885ad1,0.25,0.2,
+Sunflower Electric Power Corp,Dodge City,Hays,Unit FD4,unit-fd4-748d4e,waterwalls-106208,20220816-5d2132,0.203,0.1,
+Sunflower Electric Power Corp,Dodge City,Hays,Unit FD4,unit-fd4-748d4e,lower-arch-b31db0,20220816-bf30c3,0.203,0.1,
+Southern Co,Plant Bowen,Cartersville,Unit 4,unit-4-676260,waterwalls-4e3b7c,20220809-7bb7b7,0.238,0.17,0
+GS EPS,Dangjin,Korea,Unit #1,unit-1-8cf440,waterwalls-992242,20220809-4607bb,6.096,3.2,
+Consolidated Edison Company of New York (Corporate),CONED - 74th Street,New York,Unit 121,unit-121-2d2a42,waterwalls-b56c36,20220802-058048,,,
+Consolidated Edison Company of New York (Corporate),CONED - 74th Street,New York,Unit 121,unit-121-2d2a42,lower-slopes-4b66a9,20220802-8a024d,,,
+Edenderry Power Plant,Edenderry Power Plant,Offaly,BFB Boiler,bfb-boiler-fd3867,waterwalls-2d37f2,20220730-4ae149,7.1,0.1,
+Edenderry Power Plant,Edenderry Power Plant,Offaly,BFB Boiler,bfb-boiler-fd3867,evap-waterwalls-4df92a,20220729-d34108,5.6,3.2,
+Consolidated Edison Company of New York (Corporate),CONED - 74th Street,New York,Unit 122,unit-122-be59ec,slopes-8cdbcb,20220719-4bad09,0.26,0.1,
+Consolidated Edison Company of New York (Corporate),CONED - 74th Street,New York,Unit 122,unit-122-be59ec,waterwalls-ce240d,20220718-4227c4,0.25,0.1,
+Lidkoping Energi AB,Lidkoping Energi AB,LidkÃ¶ping,Waste Boiler,waste-boiler-94a0bf,waterwalls-868a5f,20220714-1f306c,5.6,0.1,
+Lidkoping Energi AB,Lidkoping Energi AB,LidkÃ¶ping,Waste Boiler,waste-boiler-94a0bf,baffle-wall-ea5655,20220714-92fa49,0.25,0.2,
+Adven oy,Adven - Kauttuan voimalaitos,Ukraine,CFB Boiler,cfb-boiler-c65900,waterwalls-f56116,20220704-a9e4d4,6,3.2,
+Adven oy,Adven - Kauttuan voimalaitos,Ukraine,CFB Boiler,cfb-boiler-c65900,waterwalls-f56116,20220704-e4c57d,6,3.2,
+Drax,Drax Power Station,"Drax, Selby",Unit 3,unit-3-67c2d7,waterwalls-2d58c6,20220622-e099e7,4.5,4,
+ALCOA,Warrick Power Station,Newburgh,Unit 4 Division Wall,unit-4-division-wall-eee651,division-wall-603959,20220613-fee995,0.24,0,0
+ALCOA,Warrick Power Station,Newburgh,Unit 4 Boiler,unit-4-boiler-7593e8,waterwalls-217311,20220613-df7704,0.25,0.1,
+ALCOA,Warrick Power Station,Newburgh,Unit 4 Boiler,unit-4-boiler-7593e8,waterwalls-769259,20220613-9be655,0.35,0.1,
+Poseung green power,Biomass Power Plant,Pyeongtaek-si,CFB Boiler,cfb-boiler-fed672,waterwalls-7fa761,20220608-913240,5.6,2,
+MalarEnergi,MalarEnergi,Vasetras,CFB Boiler,cfb-boiler-65a882,waterwalls-1316be,20220607-079145,5.6,3,
+MalarEnergi,MalarEnergi,Vasetras,CFB Boiler,cfb-boiler-65a882,waterwalls-1316be,20220607-f44e9d,5.6,3,
+Hallador Power Company,Merom Generating Station,Sullivan,Unit 1,unit-1-b4709b,waterwalls-ca4fd0,20220523-493ffe,0.35,0.13,0
+Hallador Power Company,Merom Generating Station,Sullivan,Unit 1,unit-1-b4709b,waterwall-left-wall-e8046c,20220523-332ac6,0.385,0.25,0
+Hallador Power Company,Merom Generating Station,Sullivan,Unit 1,unit-1-b4709b,waterwall-right-wall-6da800,20220523-64417d,0.385,0.25,0
+Rio Tinto,Yarwun,Gladstone Central,PC boiler,pc-boiler-0ccf59,waterwalls-075f51,20220523-f86d74,0.188976378,3.4,0
+SUEZ Recycling and Recovery UK Ltd,Middlesbrough,Middlesbrough,Boiler Demo,boiler-demo-22ec5d,tubes-acb7a4,20220519-4c1ed0,0.25,0.2,
+AEP,AEP - Turk Power Station,Fulton,Boiler,boiler-dfb229,left-panel-30-42-983979,20220515-77438d,0.25,0.2,
+AEP,AEP - Turk Power Station,Fulton,Boiler,boiler-dfb229,rear-panel-50-0aff1e,20220515-ccad04,0.25,0.1,
+AEP,AEP - Turk Power Station,Fulton,Boiler,boiler-dfb229,rear-panel-52-f66f9e,20220515-42298f,0.25,0.1,
+AEP,AEP - Turk Power Station,Fulton,Boiler,boiler-dfb229,rear-panel-55-d362dc,20220515-309704,0.25,0.1,
+AEP,AEP - Turk Power Station,Fulton,Boiler,boiler-dfb229,baseline-tube-57e5c1,20220515-be974d,0.25,0.1,
+AEP,AEP - Turk Power Station,Fulton,Boiler,boiler-dfb229,front-panel-12-redo-0085a5,20220515-629c46,0.25,0.1,
+AEP,AEP - Turk Power Station,Fulton,Boiler,boiler-dfb229,left-panel-29-41-a030ac,20220514-4032e5,0.25,0.2,
+AEP,AEP - Turk Power Station,Fulton,Boiler,boiler-dfb229,left-panel-30-42-983979,20220514-77438d,0.25,0.2,
+AEP,AEP - Turk Power Station,Fulton,Boiler,boiler-dfb229,right-panel-31-43-74cb07,20220514-d39411,0.25,0.2,
+AEP,AEP - Turk Power Station,Fulton,Boiler,boiler-dfb229,right-panel-18-32-ad45e0,20220514-0506e0,0.25,0.2,
+AEP,AEP - Turk Power Station,Fulton,Boiler,boiler-dfb229,right-panel-21-34-35-01b80d,20220514-5bc257,0.25,0.2,
+AEP,AEP - Turk Power Station,Fulton,Boiler,boiler-dfb229,right-panel-20-33-6ea916,20220514-619829,0.25,0.2,
+AEP,AEP - Turk Power Station,Fulton,Boiler,boiler-dfb229,left-4-52e38e,20220512-4e8df2,0.25,0.2,
+AEP,AEP - Turk Power Station,Fulton,Boiler,boiler-dfb229,left-7-ca09ae,20220512-78ae23,0.25,0.18,
+AEP,AEP - Turk Power Station,Fulton,Boiler,boiler-dfb229,left-8-bdbe5c,20220512-71c4c8,0.25,0.2,
+AEP,AEP - Turk Power Station,Fulton,Boiler,boiler-dfb229,left-9-1ac6ec,20220512-08fdbc,0.25,0.2,
+AEP,AEP - Turk Power Station,Fulton,Boiler,boiler-dfb229,left-6-706e1d,20220512-e773d9,0.25,0.2,
+AEP,AEP - Turk Power Station,Fulton,Boiler,boiler-dfb229,front-wall-panel-7-908c64,20220513-68d72e,0.25,0.1,
+AEP,AEP - Turk Power Station,Fulton,Boiler,boiler-dfb229,front-wall-panel-8-dd3f99,20220513-fa6e44,0.25,0.1,
+AEP,AEP - Turk Power Station,Fulton,Boiler,boiler-dfb229,front-wall-panel-10-11-e596d4,20220513-5619fa,0.25,0.1,
+AEP,AEP - Turk Power Station,Fulton,Boiler,boiler-dfb229,front-wall-panel-12-6e7706,20220513-688038,0.25,0.1,
+AEP,AEP - Turk Power Station,Fulton,Boiler,boiler-dfb229,left-5-ec8ed0,20220512-6b18dc,0.25,0.2,0
+ReEnergy Holdings (Corporate),ReEnergy - Albany Green Energy,Albany,Main Stack,stack-cd55b7,stack-89983d,20220511-058a08,0.375,0,0
+AES,Warrior Run,Cumberland,Boiler 1,boiler-1-18ec02,waterwalls-571769,20220509-349686,0.26,0.065,0.075
+AES,Warrior Run,Cumberland,Boiler 1,boiler-1-18ec02,evaporator-bundle-2-panel-21-30-cfeb91,20220509-227629,0.195,0.125,
+AES,Warrior Run,Cumberland,Boiler 1,boiler-1-18ec02,evaporator-bundle-3-panel-1-10-094ad7,20220509-27e470,0.195,0.125,
+AES,Warrior Run,Cumberland,Boiler 1,boiler-1-18ec02,waterwalls-mi-b7b880,20220509-44f516,0.26,0.065,0.075
+Great River Energy,Spiritwood,Spiritwood,Econo SB A (120-MW-251),econo-sb-a-120-mw-251-777b8d,roof-bb981c,20220507-a22c23,0.165,0.1,
+Great River Energy,Spiritwood,Spiritwood,120-MW-207,120-mw-207-d311d1,west-253c29,20220507-caec3a,0.109,0.1,
+Great River Energy,Spiritwood,Spiritwood,120-MW-208,120-mw-208-e1a92c,east-c43b61,20220507-182a26,0.109,0.06,
+Great River Energy,Spiritwood,Spiritwood,Econo Top South (120-MW-361),econo-top-south-120-mw-361-a628b5,floor-607f87,20220506-3dcfd7,0.165,0.1,0
+Covanta,Tulsa,Tulsa,Unit 1,unit-1-b2e9d5,waterwalls-0b26fb,20220506-54dac7,0.3,0.1,
+Great River Energy,Spiritwood,Spiritwood,PA SB A (120-MW-219),pa-sb-a-120-mw-219-2a5890,west-59439b,20220506-c90d1d,,,
+Great River Energy,Spiritwood,Spiritwood,PA SB B (120-MW-220),pa-sb-b-120-mw-220-afc336,east-52626d,20220506-396ef9,0.25,0.1,
+University of North Carolina (UNC),Chapel Hill,Chapel Hill,Boiler 7,boiler-7-224f9b,waterwalls-dbc3ad,20220505-d09332,0.25,0.15,0
+AEP,AEP - Turk Power Station,Fulton,Boiler,boiler-dfb229,left-wall-1-b3f00d,20220505-8ef2c6,0.25,0.17,
+AEP,AEP - Turk Power Station,Fulton,Boiler,boiler-dfb229,left-wall-2-1d7213,20220505-98d7f4,,0.15,
+AEP,AEP - Turk Power Station,Fulton,Boiler,boiler-dfb229,left-wall-3-af35e7,20220505-dc5d79,,,
+Great River Energy,Spiritwood,Spiritwood,Boiler 1,boiler-1-ee54d2,waterwalls-32839e,20220504-b1c9ff,0.24,0.17,0.015
+Great River Energy,Spiritwood,Spiritwood,Boiler 1,boiler-1-ee54d2,division-walls-ae7e67,20220504-4442ef,0.24,0.17,0.015
+AEP,AEP - Turk Power Station,Fulton,Boiler,boiler-dfb229,panel-2-90676a,20220503-2819bc,0.25,0.2,
+Great River Energy,Spiritwood,Spiritwood,Econo SB G (120-MW-307),econo-sb-g-120-mw-307-4bcba2,floor-7e5df3,20220504-fdcc34,0.165,0.1,
+Great River Energy,Spiritwood,Spiritwood,Econo SB G (120-MW-307),econo-sb-g-120-mw-307-4bcba2,roof-1682e5,20220504-d7f070,0.165,0.1,
+Great River Energy,Spiritwood,Spiritwood,Econo SB H (120-MW-308),econo-sb-h-120-mw-308-9af5ad,floor-1ec640,20220504-f7fb9c,0.165,0.1,
+Great River Energy,Spiritwood,Spiritwood,Econo SB H (120-MW-308),econo-sb-h-120-mw-308-9af5ad,roof-ee9260,20220504-c1c757,0.165,0.1,
+AEP,AEP - Turk Power Station,Fulton,Boiler,boiler-dfb229,panel-3-87ef61,20220504-141d18,0.25,0.2,
+AEP,AEP - Turk Power Station,Fulton,Boiler,boiler-dfb229,panel-1-a8cb5b,20220503-e94ba0,,0.18,
+Covanta,Tulsa,Tulsa,Unit 2,unit-b-7e142f,waterwalls-9a4ac0,20220422-bd7396,0.3,0.1,
+Sunflower Electric Power Corp,Holcomb Power Plant,Holcomb,Unit 1,unit-1-ca4ee9,waterwalls-599263,20220419-492e00,0.3125,0.22,
+Sunflower Electric Power Corp,Holcomb Power Plant,Holcomb,Unit 1,unit-1-ca4ee9,waterwalls-599263,20220419-92b22e,0.3125,0.22,
+AES,AES Gener - Electrica Angamos,Chile,Unit 2,unit-1-eb5fe4,slopes-d11630,20220419-2b7403,0.25,0.1,
+AES,AES Gener - Electrica Angamos,Chile,Unit 2,unit-1-eb5fe4,waterwalls-a55be1,20220418-4393f6,0.25,0.1,
+University of North Carolina (UNC),Chapel Hill,Chapel Hill,Boiler 6,boiler-6-21a474,waterwalls-dfbb89,20220401-7dd72c,,,
+CGN,Daesan Power,Sosan,Biomass Boiler,sfw-biomass-boiler-efcbd4,roof-3241ce,20220412-548a9b,6.1,0.1,
+Southern Illinois Power Cooperative,SIPC - Marion Power Station,Marion,CFB Boiler,cfb-boiler-67bbe8,waterwalls-c7035d,20220411-e68bd1,0.18,0.14,
+CGN,Daesan Power,Sosan,Biomass Boiler,sfw-biomass-boiler-efcbd4,furnace-front-wall-590119,20220410-375af1,6.1,0,0.24015748
+AES,Ventanas,Pittsburgh,Unit 2,unit-2-871a54,waterwalls-a31e7c,20220327-1b12b9,0.25,0.2,
+GS EPS,Dangjin,Korea,Unit #1,unit-1-8cf440,waterwalls-992242,20220326-cb4a42,6.096,3.2,
+Southern Co,Plant Yates,Newnan,Unit 7,unit-7-18512e,waterwalls-999338,20220322-e736dd,0.188,0.1,0
+DTE Energy,DTE - Stockton,Stockton,Bark Boiler,bark-boiler-3804b5,front-wall-8694af,20220322-a15fd4,0,0,0
+Dominion,Wateree Power Station,Eastover,Unit 1,unit-1-dcc942,waterwalls-80b2fe,20220322-da1245,0.205,0.1,
+Southern Co,Plant Yates,Newnan,Unit 7,unit-7-18512e,lower-arch-563782,20220322-752b8e,0.25,0.2,
+Southern Co,Plant Yates,Newnan,Unit 7,unit-7-18512e,upper-arch-c350fb,20220322-afe6aa,0.25,0.2,
+AES,Redondo Beach,Redondo Beach,Unit 6,unit-6-1c3c83,waterwalls-37e551,20220321-92341b,0.28,0.2,0
+Great River Energy,Coal Creek Station,Underwood,Unit 2,pc-boiler-bf6745,waterwalls-00db24,20220320-6f15b5,0.25,0.2,0
+East Kentucky Power Coop (EKPC),Spurlock,Maysville,Unit 1,unit-1-12a6a5,coutant-slopes-33dff6,20220314-d44927,0.284,0.109,0
+East Kentucky Power Coop (EKPC),Spurlock,Maysville,Unit 1,unit-1-12a6a5,frontrear-walls-640455,20220314-6431b4,0.284,0.159,
+East Kentucky Power Coop (EKPC),Spurlock,Maysville,Unit 1,unit-1-12a6a5,lower-nose-arch-6bb0ac,20220314-12b44e,0.284,0,0
+East Kentucky Power Coop (EKPC),Spurlock,Maysville,Unit 1,unit-1-12a6a5,header-d0c234,20220314-37a9b6,0.25,0.2,
+LG&E,Trimble County,Bedford,Unit 2,lower-slope-d445ef,waterwalls-8c12c5,20220310-990386,0.3,0.2,0
+Covanta,Tulsa,Tulsa,Unit 3,burner-3-222b0d,boiler-54c713,20220308-48393d,0.303,0.2,
+Covanta,Tulsa,Tulsa,Unit 3,burner-3-222b0d,waterwalls-second-pass-f9cef8,20220308-369097,0.303,0.2,0
+Sunflower Electric Power Corp,Garden City,Garden City,S2,s2-1466f5,waterwalls-f07cbd,20220307-af5a4f,0.25,0.2,0
+ALCOA,Alumar,Sao Luis,Unit 31,unit-31-0ddd82,waterwalls-bc358d,20220125-e6ac62,0.22,0.176,0
+ALCOA,Alumar,Sao Luis,Unit 31,unit-31-0ddd82,evaporator-wing-walls-963181,20220125-868e22,0.22,3,0
+ALCOA,Alumar,Sao Luis,Unit 31,unit-31-0ddd82,superheater-wing-walls-0407fa,20220125-364fc2,0.2,0.16,0
+ALCOA,Warrick Power Station,Newburgh,Tube Sample Demo,tube-sample-demo-aae0f8,tube-samples-067dd6,20220121-2caf44,0.25,0.2,0
+ALCOA,Warrick Power Station,Newburgh,Tube Sample Demo,tube-sample-demo-aae0f8,tube-samples-handheld-78105d,20220120-2fa223,0.25,0.2,0
+NRG,Limestone Electric Generating Station,Jewett,Unit 1,unit-1-78992a,upper-arch-top-portion-4ac62f,20220110-1e2495,0.22,0.16,0
+NRG,Limestone Electric Generating Station,Jewett,Unit 1,unit-1-78992a,lower-slopes-de3915,20220103-955c1a,0.22,0.14,0
+NRG,Limestone Electric Generating Station,Jewett,Unit 1,unit-1-78992a,lower-slopes-de3915,20220103-b18055,0.22,0.14,0
+NRG,Limestone Electric Generating Station,Jewett,Unit 1,unit-1-78992a,slopes-8a25e4,20220103-9bb72f,0.22,0.16,0
+GS EPS,Dangjin,Korea,Unit #1,unit-1-8cf440,waterwalls-992242,20220101-cd6975,6.096,3.2,
+Santee Cooper,Santee Cooper - Cross Generating Station,Pineville,Unit 4,cross-unit-4-waterwalls-4d6eac,waterwalls-99ed3e,20211218-f54eef,0.25,0.1,0
+Imperial Irrigation District,El Centro Generating Station,El Centro,Unit 4 Steam Boiler,ecgs-unit-4-e08058,front-wall-466ca6,20211213-a02de4,0.18,0,0
+Ravenswood Generating Station,Ravenswood Generating Station,Queens,Unit 20,boiler-unit-20-a9c88c,roof-2bb07c,20211207-b22e13,0.165,0.1,
+Engie,Engie Chile,Chile,CTH,cth-46288c,cth-d823ca,20211204-2a4dad,,,
+Engie,Engie Chile,Chile,CTA,cta-6b0ed5,waterwalls-ef3e6e,20211204-ed0977,,,
+Los Angeles Department of Water and Power,LADWP - Scattergood,El Segundo,Unit 1,scattergood-u2-5a1562,division-walls-aec88a,20211129-b7301c,0.28,0.2,
+Los Angeles Department of Water and Power,LADWP - Scattergood,El Segundo,Unit 1,scattergood-u2-5a1562,division-wall-b80d5e,20211202-a0e9d6,0.28,0.25,0
+GS EPS,Dangjin,Korea,Unit #1,unit-1-8cf440,waterwalls-992242,20211201-3396ee,6.096,3.2,
+Consolidated Edison Company of New York (Corporate),CONED - East River Generating Station,New York,Unit 60,unit-60-b21b04,lower-side-walls-763e4a,20211201-17434b,,,
+Santee Cooper,Santee Cooper - Cross Generating Station,Pineville,Unit 4,cross-unit-4-waterwalls-4d6eac,waterwalls-99ed3e,20211130-cf1f82,0.25,0.1,0
+Consolidated Edison Company of New York (Corporate),CONED - East River Generating Station,New York,Unit 60,unit-60-b21b04,east-wall-arch-dc58c4,20211130-ec3e26,,,
+Los Angeles Department of Water and Power,LADWP - Scattergood,El Segundo,Unit 1,scattergood-u2-5a1562,front-wall-134120,20211129-71acac,0.28,0.25,0
+Los Angeles Department of Water and Power,LADWP - Scattergood,El Segundo,Unit 1,scattergood-u2-5a1562,front-wall-134120,20211129-d0f5b8,0.28,0.25,0
+Consolidated Edison Company of New York (Corporate),CONED - East River Generating Station,New York,Unit 60,unit-60-b21b04,waterwalls-ec870c,20211129-8e0bf4,0.4,0.2,0
+Consolidated Edison Company of New York (Corporate),CONED - East River Generating Station,New York,Unit 60,unit-60-b21b04,west-wall-arch-12238b,20211129-252f67,0.4,0.253,
+ALCOA,Warrick Power Station,Newburgh,Unit 4 Division Wall,unit-4-division-wall-eee651,division-wall-603959,20211227-db8fa3,0.24,0,0
+APS,Cholla Power Plant,Joseph City,Unit 3 Boiler,unit-3-boiler-043d04,lower-slopes-111ffd,20211115-224d14,0.1875,0.1,0
+Ravenswood Generating Station,Ravenswood Generating Station,Queens,Unit 20,boiler-unit-20-a9c88c,lower-slopes-a5fb62,20211115-4649e9,0.165,0,0
+Ravenswood Generating Station,Ravenswood Generating Station,Queens,Unit 20,boiler-unit-20-a9c88c,floor-cb74c8,20211115-67ad16,0.165,0,0
+APS,Cholla Power Plant,Joseph City,Unit 1 Boiler,unit-1-boiler-fc4ce3,front-rear-walls-11223d,20211115-9d8404,0.28,0,0
+APS,Cholla Power Plant,Joseph City,Unit 3 Boiler,unit-3-boiler-043d04,front-rear-walls-77159d,20211115-4ae943,0.2,0.1,0
+Ravenswood Generating Station,Ravenswood Generating Station,Queens,Unit 20,boiler-unit-20-a9c88c,waterwalls-679342,20211115-b107fb,,,
+GS EPS,Dangjin,Korea,Unit #2,unit-2-72d1be,watewalls-1974de,20211110-94db67,8.128,4,
+East Kentucky Power Coop (EKPC),Spurlock,Maysville,Unit 2,unit-2-2b2835,waterwalls-08309d,20211109-5c2840,0.25,0.15,0
+East Kentucky Power Coop (EKPC),Spurlock,Maysville,Unit 4,unit-4-5c6ce2,waterwalls-6eb75a,20211027-60d185,0.26,0.234,0
+East Kentucky Power Coop (EKPC),Spurlock,Maysville,Unit 4,unit-4-5c6ce2,superheater-elements-aa1f0e,20211027-db7858,0.17,0.1485,0
+East Kentucky Power Coop (EKPC),Spurlock,Maysville,Unit 4,unit-4-5c6ce2,evaporator-panels-0b33af,20211027-82fc86,0.3,0.234,0
+East Kentucky Power Coop (EKPC),Spurlock,Maysville,Unit 4,unit-4-5c6ce2,boiler-roof-039fca,20211027-2a766d,0.3,0.234,0
+Kentucky Utilities,Ghent Generating Station,Ghent,Unit 2,unit-2-3cfa1a,lower-slopes-968292,20211026-b6175c,0.188,0.12,0
+East Kentucky Power Coop (EKPC),Cooper,Somerset,Unit 2,unit-2-939dd9,division-wall-0659da,20211019-cdc70e,0.19,0,0
+East Kentucky Power Coop (EKPC),Cooper,Somerset,Unit 2,unit-2-939dd9,waterwalls-83a0b0,20211018-5f8490,0.203,0.15,
+East Kentucky Power Coop (EKPC),Cooper,Somerset,Unit 2,unit-2-939dd9,lower-slopes-1bd90b,20211018-fec714,0.203,0.16,
+Southern Co,Plant Yates,Newnan,Unit 6,unit-6-0f16c9,waterwalls-99ffd4,20211012-d99fbe,0.188,0.16,0
+Southern Co,Plant Yates,Newnan,Unit 6,unit-6-0f16c9,lower-nose-arch-25c515,20211012-cfa474,0.25,0.1,
+Southern Co,Plant Yates,Newnan,Unit 6,unit-6-0f16c9,upper-bc4fa7,20211012-becf05,0.188,0.1,
+"Ingredion, Inc.",Bedford Park,Bedford Park,Boiler 10,boiler-10-7055ca,waterwalls-2ae2c0,20211011-d88544,0.21,0.15,0
+"Ingredion, Inc.",Bedford Park,Bedford Park,Boiler 10,boiler-10-7055ca,wingwalls-2bcf71,20211011-79a710,0.21,0.15,0
+AMBIT,Grant Town Power Plant,Grant Town,Unit B,unit-b-a1005a,roof-3b8741,20211005-145d1f,0.256,0.18,
+AMBIT,Grant Town Power Plant,Grant Town,Unit B,unit-b-a1005a,waterwalls-24d1c8,20210927-f29886,0.256,0.18,
+Santee Cooper,Santee Cooper - Cross Generating Station,Pineville,Unit 4,cross-unit-4-waterwalls-4d6eac,waterwalls-99ed3e,20211004-6d5ae8,0.25,0.1,0
+Rio Tinto,Yarwun,Gladstone Central,PC boiler,pc-boiler-0ccf59,waterwalls-075f51,20211003-2af274,0.188976378,3.4,0
+GS EPS,Dangjin,Korea,Unit #1,unit-1-8cf440,waterwalls-992242,20211001-2a2f0e,6.096,3.2,
+AMBIT,Grant Town Power Plant,Grant Town,Unit A,boiler-a-99f927,waterwalls-9acc54,20210927-d24e15,0.256,0.2,0
+AMBIT,Grant Town Power Plant,Grant Town,Unit A,boiler-a-99f927,roof-f31c82,20210927-b38867,0.256,0.2,0
+Consolidated Edison Company of New York (Corporate),CONED - 74th Street,New York,Unit 120,unit-120-b7adc8,slopes-eceefd,20210802-827ff7,0.26,0.2,0
+Consolidated Edison Company of New York (Corporate),CONED - 74th Street,New York,Unit 120,unit-120-b7adc8,waterwalls-92867c,20210802-08feeb,0.26,0.12,0
+GS EPS,Dangjin,Korea,Unit #1,unit-1-8cf440,waterwalls-992242,20210801-25d5ca,6.096,3.2,
+Vantaan - Jarvenpaan CHP,Vantaan - Jarvenpaan CHP,JÃ¤rvenpÃ¤Ã¤,BFB Boiler,bfb-boiler-e32713,nose-arch-4b8f59,20210730-a0c971,6.3,6,0
+Vantaan - Jarvenpaan CHP,Vantaan - Jarvenpaan CHP,JÃ¤rvenpÃ¤Ã¤,BFB Boiler,bfb-boiler-e32713,waterwalls-a924ee,20210728-63d425,6.3,5.6,0
+Adven oy,Adven - Kauttuan voimalaitos,Ukraine,CFB Boiler,cfb-boiler-c65900,waterwalls-f56116,20210623-e2d6d0,6,3.2,
+Sumitomo - Foster Wheeler,SHI FW ENERGIA FAKOP,41-200 Sosnowiec,Demo Panel,demo-panel-e46dac,demo-panel-58b10f,20210621-db3bc1,,4.9,
+Tauron,Tauron - Lagisza,BÄ™dzin,6.17 Demo,617-demo-ef0be1,waterwalls-b8ea58,20210618-457955,,,
+Tauron,Tauron - Lagisza,BÄ™dzin,6.17 Demo,617-demo-ef0be1,waterwalls-thickness-21fe0d,20210617-716d0e,,5,
+APS,APS  - Yucca Power Plant,Yuma,Unit 1,unit-1-59af1a,bullnose-7a0a52,20210606-766262,0.38,0.2,
+APS,APS  - Yucca Power Plant,Yuma,Unit 1,unit-1-59af1a,waterwalls-848811,20210604-a17446,0.28,0.2,
+Los Angeles Department of Water and Power,LADWP - Scattergood,El Segundo,Unit 2,unit-1-4544f6,waterwalls-a6d5bb,20210601-a6f6ce,0.28,0.2,
+Los Angeles Department of Water and Power,LADWP - Scattergood,El Segundo,Unit 2,unit-1-4544f6,division-walls-c0fb47,20210601-c8d70c,0.28,0.2,
+American Crystal Sugar,American Crystal Sugar - Drayton Factory,Drayton,Boiler,boiler-81c7b7,upper-portion-bd545a,20210520-5832a0,0.165,0.107,
+American Crystal Sugar,American Crystal Sugar - Drayton Factory,Drayton,Boiler,boiler-81c7b7,lower-portion-00dab7,20210520-5862b3,0.165,0.1,
+Ebensburg Power Company,Ebensburg,Ebensburg,Unit 1,unit-10-5b3dfa,waterwalls-94d724,20210518-b55430,0.24,0.165,0
+Ebensburg Power Company,Ebensburg,Ebensburg,Unit 1,unit-10-5b3dfa,division-walls-551bb2,20210518-0e171e,0.24,0.168,0
+Santee Cooper,Winyah,Georgetown,Unit 2 Boiler,unit-2-boiler-0cedf7,waterwalls-9552d4,20210518-585202,0.25,0.2,0
+Santee Cooper,Winyah,Georgetown,Unit 2 Boiler,unit-2-boiler-0cedf7,lower-slopes-e28651,20210518-f4a160,0.2,0.16,0
+Southern Co,Plant Bowen,Cartersville,Unit 2,unit-2-d6bb3f,waterwalls-ba5c41,20210515-b373e7,0.268,0.17,0
+Los Angeles Department of Water and Power,LADWP - Scattergood,El Segundo,Unit 1 Demo,unit-1-demo-256efe,test-tubes-5a1089,20210513-8ae84a,,,
+East Kentucky Power Coop (EKPC),Spurlock,Maysville,Unit 3,unit-3-937755,waterwalls-6eb5a8,20210505-1c1b79,0.26,0.234,0
+East Kentucky Power Coop (EKPC),Spurlock,Maysville,Unit 3,unit-3-937755,superheater-elements-a7998c,20210505-bd88db,0.17,0.13,0
+East Kentucky Power Coop (EKPC),Spurlock,Maysville,Unit 3,unit-3-937755,evaporator-panels-a78ec1,20210505-fdcc45,0.3,0.234,0
+East Kentucky Power Coop (EKPC),Spurlock,Maysville,Unit 3,unit-3-937755,boiler-roof-37d942,20210505-639983,0.26,0.234,0
+Great River Energy,Spiritwood,Spiritwood,Economizer,economizer-580e61,section-2-roof-858b67,20210501-080ae4,0.165,0.1,
+Great River Energy,Spiritwood,Spiritwood,Economizer,economizer-580e61,section-4-e9426f,20210430-4ccf9c,0.165,0.0825,
+Great River Energy,Spiritwood,Spiritwood,Economizer,economizer-580e61,section-5-5801da,20210428-a4f87a,0.165,0.0825,
+Drax,Drax Power Station,"Drax, Selby",Unit 3,unit-3-67c2d7,waterwalls-2d58c6,20230727-05e4b6,4.5,4,
+Great River Energy,Spiritwood,Spiritwood,Economizer,economizer-580e61,section-1-roof-a9df99,20210429-e29238,0.165,0.1,
+NRG,Seward Power Station,New Florence,Boiler 2,unit-2-boiler-0bea2c,waterwalls-mi-b9aef1,20210414-a2c6f3,0.26,0.2,
+NRG,Seward Power Station,New Florence,Boiler 2,unit-2-boiler-0bea2c,waterwalls-ut-3a09ac,20210414-61ad93,0.26,0.18,
+NRG,Seward Power Station,New Florence,Boiler 2,unit-2-boiler-0bea2c,roof-1f41c4,20210414-1240e0,0.26,0.18,
+NRG,Seward Power Station,New Florence,Boiler 2,unit-2-boiler-0bea2c,evaporator-panels-8c221c,20210414-686667,0.17,0.135,
+NRG,Seward Power Station,New Florence,Boiler 2,unit-2-boiler-0bea2c,sspp-panels-5575bb,20210414-ba500b,0.26,0.18,
+Southern Co,Plant Bowen,Cartersville,Unit 3,unit-3-2ec131,waterwalls-4cc190,20210413-7a4b55,0.238,0.17,0
+Southern Co,Greene County Steam Plant,Forkland,Unit 2,unit-2-f0ccaf,waterwalls-dffeab,20210413-7cf595,0.26,0.2,0
+AES,Warrior Run,Cumberland,Boiler 1,boiler-1-18ec02,evaporator-bundle-3-panel-1-10-094ad7,20210409-1884c7,0.195,0.125,
+Vistra Luminant Energy,Oak Grove Generating Station,Franklin,Unit 1,unit-1-7453ff,rear-slope-ae9392,20210409-3d4d44,0.22,0.12,
+Vistra Luminant Energy,Oak Grove Generating Station,Franklin,Unit 1,unit-1-7453ff,upper-arch-c4b34d,20210409-9beac7,0.22,0.12,
+NRG,Seward Power Station,New Florence,Boiler 1,boiler-1-ef6b14,waterwalls-b7fe8a,20210408-26cf61,0.26,0.2,
+NRG,Seward Power Station,New Florence,Boiler 1,boiler-1-ef6b14,waterwalls-b6b0d3,20210408-ae965d,0.26,0.2,
+GS EPS,Dangjin,Korea,Unit #1,unit-1-8cf440,waterwalls-992242,20210707-4243d1,6.096,3.2,
+Rio Tinto,Kennecott Utah Copper,Jordan,FS Waste Heat Boiler,fs-waste-heat-boiler-341404,boiler-roof-f2b287,20210407-622841,0.22,0.16,
+Tucson Electric Power,TEP - Sundt Station,Tucson,Unit 3,unit-3-bc5106,waterwalls-adbcec,20210329-9559f2,0.24,0.16,
+Vistra Luminant Energy,Oak Grove Generating Station,Franklin,Unit 2,unit-2-6d0317,upper-arch-95b681,20210325-a8e1e8,0.2,0.18,
+Vistra Luminant Energy,Oak Grove Generating Station,Franklin,Unit 2,unit-2-6d0317,lower-slopes-dde242,20210322-11e03a,0.012,0.16,0.012
+Ameren,Ameren - Labadie Power Station,Labadie,Unit 4,unit-4-lower-slopes-298f47,lower-slopes-d0837e,20210316-fd44d7,,0.26,
+Ameren,Ameren - Labadie Power Station,Labadie,Unit 4,unit-4-lower-slopes-298f47,rear-lower-slope-c6daaa,20210316-331a7e,,200,
+Arizona G&T Cooperatives,Arizona G&T Coop - Apache Station,Cochise,Unit 2,unit-2-99a630,waterwalls-fe80b2,20210310-d9557f,0.28,0.2,
+DTE Energy,DTE - Mt. Poso Cogeneration,Bakersfield,Unit 1,unit-1-80b8a9,waterwalls-bd83ec,20210302-1bd822,0.24,0.2,0
+DTE Energy,DTE - Mt. Poso Cogeneration,Bakersfield,Unit 1,unit-1-80b8a9,waterwalls-mi-90fdf5,20210302-ca97f2,,,0.1
+NRG,Arthur Kill,Staten Island,Superheat Unit,superheat-unit-823dc9,waterwalls-f12287,20210216-6c6138,0.26,0.23,0
+NRG,Arthur Kill,Staten Island,Reheat Unit,reheat-unit-bfb08b,waterwalls-2e24e8,20210216-44d443,0.26,0.18,0
+NRG,Arthur Kill,Staten Island,Reheat Unit,reheat-unit-bfb08b,lower-slopes-bdcc65,20210216-7d9bfa,0.26,0.18,0
+NRG,Arthur Kill,Staten Island,Superheat Unit,superheat-unit-823dc9,lower-slopes-8a3a4a,20210216-93bec7,0.26,0.21,0
+Hidrogen Enerji - Soma Kolin,Hidrogen Enerji - Soma Kolin,TÃ¼rkpiyala,CFB 2,cfb-2-f03951,waterwalls-b6b964,20210120-880852,6.604,3,
+Tucson Electric Power,TEP - Sundt Station,Tucson,Unit 4,unit-4-dee39b,waterwalls-ea13aa,20210125-0b2c94,0.205,0.16,
+Tucson Electric Power,TEP - Sundt Station,Tucson,Unit 4,unit-4-dee39b,lower-arch-12cc50,20210125-69c439,0.205,0.16,
+Hidrogen Enerji - Soma Kolin,Hidrogen Enerji - Soma Kolin,TÃ¼rkpiyala,CFB 1,cfb-1-9a84a7,waterwalls-63ffe7,20210120-784d1a,6.604,3,
+GS EPS,Dangjin,Korea,Unit #1,unit-1-8cf440,waterwalls-992242,20210105-7be806,6.096,3.2,
+Southern Co,Plant Barry,Bucks,Unit 5,unit-5-e32a1e,waterwalls-3d1024,20201216-6791a7,0.238,0.15,
+NRG,W.A Parish Station,Thompsons,Unit 1,unit-1-c96e0f,waterwalls-b65fe2,20201215-d0d1d7,0.28,0.22,
+Ravenswood Generating Station,Ravenswood Generating Station,Queens,Unit 10,unit-10-1e903f,front-wall-ca1225,20201212-d850ff,0.238,0.15,
+Southern Co,Plant Gaston,Wilsonville,Unit 5,unit-5-8632ca,waterwalls-e60154,20201122-627ca9,0.238,0.166,0
+GS EPS,Dangjin,Korea,Unit #2,unit-2-72d1be,watewalls-1974de,20201116-a705e6,8.128,4,
+Dominion,Mt. Storm,Mt. Storm,Unit 2,unit-2-348d07,lower-slope-front-2588cd,20201116-84076b,,,
+Dominion,Mt. Storm,Mt. Storm,Unit 2,unit-2-348d07,lower-slope-rear-ec3e00,20201116-46d9db,,,
+Greenleaf Power,Desert View Power,Mecca,CFB 2,cfb-2-532d0d,waterwalls-59025a,20201111-9b8b39,0.2,180,
+LG&E,Mill Creek,Lousiville,Unit 4,unit-4-410c39,waterwalls-sidewalls-022008,20201111-ba8322,,,
+AES,Alamitos,Long Beach,Unit 4,unit-4-f92a83,waterwalls-89ed80,20201110-5b37fd,,,
+AES,Alamitos,Long Beach,Unit 4,unit-4-f92a83,division-wall-4eca7c,20201110-50c594,,,
+AES,Alamitos,Long Beach,Unit 3,unit-3-768d7d,waterwalls-bfc123,20201106-afc7e0,,,
+AES,Alamitos,Long Beach,Unit 3,unit-3-768d7d,division-wall-4b5a3f,20201106-40276d,,,
+Greenleaf Power,Desert View Power,Mecca,CFB 1,cfb-1-12ae53,waterwalls-3d9627,20201104-c5ea51,0.2,0.16,
+AES,Redondo Beach,Redondo Beach,Unit 5,unit-5-03e8e6,waterwalls-135bd7,20201103-ed9b7e,0.28,0.2,0
+AMBIT,Grant Town Power Plant,Grant Town,Unit A,boiler-a-99f927,waterwalls-9acc54,20201102-3e6dbb,0.256,0.2,0
+AMBIT,Grant Town Power Plant,Grant Town,Unit A,boiler-a-99f927,roof-f31c82,20201102-c9255d,0.256,0.2,0
+AES,Huntington Beach,Huntington Beach,Unit 2,unit-2-389961,waterwalls-aa77e4,20201030-f78847,,,
+AMBIT,Grant Town Power Plant,Grant Town,Unit B,unit-b-a1005a,roof-3b8741,20201026-1dd557,0.256,0.18,
+AMBIT,Grant Town Power Plant,Grant Town,Unit B,unit-b-a1005a,waterwalls-24d1c8,20201026-9a36ee,0.256,0.18,
+ALCOA,Warrick Power Station,Newburgh,Unit 2 Boiler,boiler-2-386985,waterwall-635ade,20201019-3e1ae4,0.24,0.1,0
+ALCOA,Warrick Power Station,Newburgh,Unit 2 Boiler,boiler-2-386985,division-wall-becbd7,20201019-643168,0.24,0.19,0
+ALCOA,Warrick Power Station,Newburgh,Unit 2 Boiler,boiler-2-386985,bullnose-914e8e,20201019-d3fff3,0.28,0.192,0
+ALCOA,Warrick Power Station,Newburgh,Unit 2 Boiler,boiler-2-386985,rear-lower-slope-87897e,20201019-4cf54b,0.24,0.18,0
+Cardinal,Cardinal Power Plant,"Brilliant, OH",Unit 3,unit-3-54779f,waterwalls-b94b37,20201016-b04e5f,0.23,0.18,0
+Cardinal,Cardinal Power Plant,"Brilliant, OH",Unit 3,unit-3-54779f,lower-slopes-1f0468,20201016-c07763,0.23,0.18,0
+East Kentucky Power Coop (EKPC),Spurlock,Maysville,Unit 4,unit-4-5c6ce2,waterwalls-6eb75a,20201014-4106ff,0.26,0.234,0
+East Kentucky Power Coop (EKPC),Spurlock,Maysville,Unit 4,unit-4-5c6ce2,superheater-elements-aa1f0e,20201014-cb5238,0.17,0.1485,0
+East Kentucky Power Coop (EKPC),Spurlock,Maysville,Unit 4,unit-4-5c6ce2,evaporator-panels-0b33af,20201014-6cf8e1,0.3,0.234,0
+East Kentucky Power Coop (EKPC),Spurlock,Maysville,Unit 4,unit-4-5c6ce2,boiler-roof-039fca,20201014-8de5fd,0.3,0.234,0
+"Ingredion, Inc.",Bedford Park,Bedford Park,Boiler 10,boiler-10-7055ca,wingwalls-2bcf71,20201013-ce9b1a,0.21,0.15,0
+Pacificorp,Wyodak Power Station,Gillette,U1 Boiler,u1-boiler-10231f,slopes-84e605,20201013-6b5e5b,0.203,0.18,0
+Dominion,Clover Power Plant,Clover,Unit 1,unit-1-6db4d8,rear-wall-ec6ee0,20201012-20110d,0.18,0.13,0
+Santee Cooper,Winyah,Georgetown,Unit 1 Boiler,unit-2-6821e3,waterwalls-5062e6,20201010-6a53ad,0.25,0.18,0
+Santee Cooper,Winyah,Georgetown,Unit 1 Boiler,unit-2-6821e3,lower-slopes-0b5e8f,20201010-738ac6,0.26,0.18,0
+Santee Cooper,Winyah,Georgetown,Unit 1 Boiler,unit-2-6821e3,lower-arch-ec98d4,20201010-42cc83,0.25,0.18,0
+Santee Cooper,Winyah,Georgetown,Unit 1 Boiler,unit-2-6821e3,vertical-kickout-e72301,20201010-50b300,0.25,0.18,0
+"Ingredion, Inc.",Bedford Park,Bedford Park,Boiler 10,boiler-10-7055ca,waterwalls-2ae2c0,20201009-b6b9d8,0.21,0.15,0
+Kentucky Utilities,Ghent Generating Station,Ghent,Unit 3,unit-3-63885e,rear-slope-and-wall-7e28fc,20201006-cdbadb,0.314,0.25,0
+Kentucky Utilities,Ghent Generating Station,Ghent,Unit 3,unit-3-63885e,front-slope-and-waterwall-de027c,20201006-1e94ab,0.314,0.25,0
+AES,Petersburg,Petersburg,Boiler U3,unit-3-e43a85,horizontal-sh-panels-1-99-679d59,20201005-4bbcc3,0.24,0.18,0
+Great River Energy,Spiritwood,Spiritwood,Boiler 1,boiler-1-ee54d2,waterwalls-32839e,20201003-e96b8c,0.24,0.17,0.015
+Great River Energy,Spiritwood,Spiritwood,Boiler 1,boiler-1-ee54d2,division-walls-ae7e67,20201003-3d87aa,0.24,0.17,0.015
+Great River Energy,Spiritwood,Spiritwood,Boiler 1,boiler-1-ee54d2,wing-walls-7813a4,20201003-9d9866,0.317,0.22,0.015
+ALCOA,Alumar,Sao Luis,Unit 31,unit-31-0ddd82,waterwalls-bc358d,20201001-9b346c,0.22,0.176,0
+ALCOA,Alumar,Sao Luis,Unit 31,unit-31-0ddd82,evaporator-wing-walls-963181,20201001-6df89d,0.22,3,0
+ALCOA,Alumar,Sao Luis,Unit 31,unit-31-0ddd82,superheater-wing-walls-0407fa,20201001-8052a2,0.2,0.16,0
+GS EPS,Dangjin,Korea,Unit #1,unit-1-8cf440,waterwalls-992242,20201001-347e43,6.096,3.2,
+Evergy,Iatan Power Station,Weston,Boiler,boiler-06ca72,economizer-panel-38faa9,20200925-4ea5d3,0.3,0.18,0
+ALCOA,Alumar,Sao Luis,Unit 21,waterwalls-4964a2,side-walls-14461c,20200830-dcaa69,5.588,4.4704,0
+ALCOA,Alumar,Sao Luis,Unit 21,waterwalls-4964a2,sh-s2-wingwall-46e98f,20200830-44305b,5.08,3.06,0
+ALCOA,Alumar,Sao Luis,Unit 21,waterwalls-4964a2,evaporator-wing-walls-9e7a7d,20200830-d7337a,5.56,3.5,0
+NRG,W.A Parish Station,Thompsons,Sample Boiler Tubes,sample-boiler-tubes-8da9e3,tubes-4d8476,20200818-626dec,0.28,0.22,0
+American Crystal Sugar,Hillsboro,Hillsboro,Unit 2 - Economizer,economizer-f495a7,upper-economizer-tubes-caccb4,20200813-b44d63,0.105,0.08,0
+American Crystal Sugar,Hillsboro,Hillsboro,Unit 2 - Economizer,economizer-f495a7,lower-economizer-tubes-1a700c,20200811-da6161,0.105,0.08,0
+GS EPS,Dangjin,Korea,Unit #1,unit-1-8cf440,waterwalls-992242,20200701-5c80de,6.096,3.2,
+Ebensburg Power Company,Ebensburg,Ebensburg,Unit 1,unit-10-5b3dfa,waterwalls-94d724,20200519-dd7b17,0.24,0.165,0
+Ebensburg Power Company,Ebensburg,Ebensburg,Unit 1,unit-10-5b3dfa,division-walls-551bb2,20200519-de5104,0.24,0.168,0
+Ebensburg Power Company,Ebensburg,Ebensburg,Unit 1,unit-10-5b3dfa,wingwalls-a5793e,20200519-020931,0.24,0.168,0
+Ebensburg Power Company,Ebensburg,Ebensburg,Unit 1,unit-10-5b3dfa,waterwalls-mi-ccf031,20200519-1cd14c,,,0.007
+AES,Petersburg,Petersburg,Boiler U3,unit-3-e43a85,waterwalls-c88f18,20200513-93c991,0.22,0.185,
+LG&E,Trimble County,Bedford,Unit 1,unit-1-551c91,front-slope-dd98b8,20200512-cc45d6,0.276,0.22,
+LG&E,Trimble County,Bedford,Unit 1,unit-1-551c91,rear-slope-2697b2,20200512-d91643,0.35,0.28,
+Vistra Luminant Energy,Joppa,Joppa,Unit 3,unit-3-e98eb7,waterwalls-518c5e,20200423-f5ea06,0.3,0.23,0
+Vistra Luminant Energy,Joppa,Joppa,Unit 3,unit-3-e98eb7,lower-arch-252c2f,20200423-3d9cd4,0.3,0.21,0
+Vistra Luminant Energy,Joppa,Joppa,Unit 3,unit-3-e98eb7,roof-0ba528,20200423-e004e7,0.3,0.21,0
+Vistra Luminant Energy,Graham,Graham,Unit 1,unit-1-8ae20c,waterwalls-f55f05,20200423-dae971,0.28,0.224,
+Vistra Luminant Energy,Joppa,Joppa,Unit 3,unit-3-e98eb7,mini-front-arch-f974dd,20200426-d7e60c,0.3,0.21,
+TVA,Cumberland,Cumberland City,Unit 2,unit-2-c9f385,waterwalls-00e50a,20200410-481694,0.22,0.12,
+Cardinal,Cardinal Power Plant,"Brilliant, OH",Unit 1,unit-1-098237,waterwalls-1e218a,20200323-0c56b4,0.237,0.19,0
+Cardinal,Cardinal Power Plant,"Brilliant, OH",Unit 1,unit-1-098237,slopes-31e735,20200323-4d30bb,0.237,0.19,0
+Southern Co,Plant Bowen,Cartersville,Unit 1,unit-1-44431e,waterwalls-10a514,20200310-73c53c,0.268,0.17,0
+Southern Co,Plant Bowen,Cartersville,Unit 1,unit-1-44431e,division-wall-e286ac,20200310-ded7c1,0.25,0.18,0
+PNM,San Juan Generating,Waterflow,Unit 4 Boiler,unit-4-boiler-74384c,waterwalls-eb3338,20200310-4b0c7c,0.24,0.18,0
+AES,Tamuin - TEG,TamuÃ­n,CFB Boiler 1A,cfb-boiler-1a-4e3871,waterwalls-745c2a,20200309-f4ab1f,,,
+Covanta,Haverhill,Haverhill,Boiler 1,boiler-ec4793,waterwalls-coating-thickness-db342b,20200309-8dbafb,0,10,0.085
+Vistra Luminant Energy,Joppa,Joppa,Unit 5,unit-5-21f78d,waterwalls-6068c9,20200308-dbbf9f,,,
+Vistra Luminant Energy,Joppa,Joppa,Unit 5,unit-5-21f78d,lower-arch-e0a4a9,20200308-297e16,,,
+Vistra Luminant Energy,Joppa,Joppa,Unit 5,unit-5-21f78d,roof-2e2fe2,20200308-fd1eb5,,,
+Kentucky Utilities,Ghent Generating Station,Ghent,Unit 4,unit-4-fddcaa,slopes-5-7700fd,20200308-ed9202,,,
+Kentucky Utilities,Ghent Generating Station,Ghent,Unit 1,unit-1-0b72c8,front-slope-9969f5,20200218-9fb54f,0.22,0.16,0
+Kentucky Utilities,Ghent Generating Station,Ghent,Unit 1,unit-1-0b72c8,rear-slope-4a0209,20200218-823dc7,0.22,0.16,0
+Vistra Luminant Energy,Joppa,Joppa,Unit 2,unit-2-e09105,boiler-walls-3b48b8,20200209-90ecbb,0.28,0.2,0
+Vistra Luminant Energy,Joppa,Joppa,Unit 2,unit-2-e09105,lower-arch-44e20e,20200209-0a015b,0.28,0.21,0
+Vistra Luminant Energy,Joppa,Joppa,Unit 2,unit-2-e09105,roof-467510,20200209-7cc50d,0.28,0.2,0
+Prairie State GC,Prairie State Generating Station,Marissa,Unit 2,rear-economizer-c05a72,tubes-e307bb,20200126-40eff6,0.25,0.18,0
+Xcel Energy,Xcel - Plant X,Earth,Tube Sample,waterwalls-898ecc,test-tubes-3dbe40,20200107-ed0eb2,0.3,0.2,0
+Vistra Luminant Energy,Joppa,Joppa,Unit 6,unit-6-0dff35,waterwalls-6741a2,20191227-581e28,0.28,0.168,0
+Vistra Luminant Energy,Joppa,Joppa,Unit 6,unit-6-0dff35,lower-arch-ed5469,20191227-79f87d,0.28,0.168,0
+Vistra Luminant Energy,Joppa,Joppa,Unit 6,unit-6-0dff35,roof-21ba11,20191227-e83248,0.28,0.168,0
+Vistra Luminant Energy,Joppa,Joppa,PC Boiler,pc-boiler-42f77e,waterwalls-a0e804,20191206-d4c842,0.28,0.18,0
+Dominion,Mt. Storm,Mt. Storm,Unit 1,lower-slopes-41bae4,lower-slope-front-18af34,20191120-0b0bfd,0.188,0.12,0
+Dominion,Mt. Storm,Mt. Storm,Unit 1,lower-slopes-41bae4,lower-slope-front-a1ca9d,20191120-bdefec,0.188,0.12,0
+ALCOA,Alumar,Sao Luis,Unit 21,waterwalls-4964a2,side-walls-14461c,20191108-3ed973,5.588,4.4704,0
+ALCOA,Alumar,Sao Luis,Unit 21,waterwalls-4964a2,sh-s2-wingwall-46e98f,20191108-c1c40d,5.08,3.06,0
+ALCOA,Alumar,Sao Luis,Unit 21,waterwalls-4964a2,evaporator-wing-walls-9e7a7d,20191108-739b05,5.56,3.5,0
+AES,Warrior Run,Cumberland,Boiler 1,boiler-1-18ec02,evaporator-bank-1-2-3f0bc5,20191105-d67eab,0.195,0.125,0
+AES,Warrior Run,Cumberland,Boiler 1,boiler-1-18ec02,evaporator-bank-3-205c2c,20191105-57f678,0.195,0.125,0
+ALCOA,Warrick Power Station,Newburgh,Unit 3 Boiler,unit-3-boiler-083936,rear-lower-slope-adc091,20191029-a3c2f0,0.24,0.18,0
+ALCOA,Warrick Power Station,Newburgh,Unit 3 Boiler,unit-3-boiler-083936,division-wall-2a18ce,20191029-6b9000,0.24,0.18,0
+ALCOA,Warrick Power Station,Newburgh,Unit 3 Boiler,unit-3-boiler-083936,waterwalls-e07e36,20191029-ef66f9,0.24,0.15,0
+Southern Co,Plant Wansley,Carrollton,Unit 2,unit-2-0d40cc,coutant-slopes-f461c3,20191023-16251f,0.22,0.14,0
+ALCOA,Warrick Power Station,Newburgh,Unit 1 Boiler,unit-3-boiler-253e7f,waterwalls-1ea4fd,20191023-8a4efe,0.24,0.18,0
+ALCOA,Warrick Power Station,Newburgh,Unit 1 Boiler,unit-3-boiler-253e7f,lower-arch-6c6137,20191023-7458f7,0.24,0.18,0
+ALCOA,Warrick Power Station,Newburgh,Unit 1 Boiler,unit-3-boiler-253e7f,lower-slopes-a14634,20191023-2954cf,0.24,0.18,0
+ALCOA,Warrick Power Station,Newburgh,Unit 1 Boiler,unit-3-boiler-253e7f,division-wall-e71dee,20191024-bc2166,0.24,0.18,0
+Southern Co,Plant Wansley,Carrollton,Unit 2,unit-2-0d40cc,waterwalls-c0785a,20191025-66237d,0.22,0.13,0
+Southern Co,Plant Wansley,Carrollton,Unit 2,unit-2-0d40cc,division-wall-f2da46,20191028-38d766,0.281,0.2,0
+Vistra Luminant Energy,Miami Fort,North Bend,Boiler 7,boiler-7-98142b,lower-slopes-76b217,20191021-9c7f4b,0.24,0.17,0
+AES,Harding Street Generating Station,Indianapolis,Unit 7,unit-7-2f3456,waterwalls-4c9846,20191014-d02213,0.24,0.192,0
+AES,Harding Street Generating Station,Indianapolis,Unit 7,unit-7-2f3456,slopes-2cfc14,20191014-e4ffb4,0.24,0.192,0
+Cardinal,Cardinal Power Plant,"Brilliant, OH",Unit 2,unit-2-85d197,waterwalls-57d701,20191014-e080b6,0.237,0.17,0
+Cardinal,Cardinal Power Plant,"Brilliant, OH",Unit 2,unit-2-85d197,lower-slopes-e38aaa,20191014-cb7afc,0.237,0.19,0
+Great River Energy,Spiritwood,Spiritwood,Boiler 1,boiler-1-ee54d2,waterwalls-32839e,20191013-7e72e1,0.24,0.17,0.015
+Great River Energy,Spiritwood,Spiritwood,Boiler 1,boiler-1-ee54d2,division-walls-ae7e67,20191013-76e6d9,0.24,0.17,0.015
+"Ingredion, Inc.",Bedford Park,Bedford Park,Boiler 10,boiler-10-7055ca,waterwalls-2ae2c0,20191008-6407c4,0.21,0.15,0
+"Ingredion, Inc.",Bedford Park,Bedford Park,Boiler 10,boiler-10-7055ca,wingwalls-2bcf71,20191008-6ee89d,0.21,0.15,0
+Southern Co,Plant Wansley,Carrollton,Unit 1,unit-1-2f0456,waterwalls-977be7,20191008-734139,0.22,0.143,0
+Southern Co,Plant Wansley,Carrollton,Unit 1,unit-1-2f0456,coutant-slopes-c2c4e7,20191007-7740c8,0.22,0.18,0
+Southern Co,Plant Wansley,Carrollton,Unit 1,unit-1-2f0456,division-wall-0b4efc,20191008-ea213c,0.281,0.2,0
+Southern Co,Plant Wansley,Carrollton,Unit 1,unit-1-2f0456,bull-nose-arch-a78ceb,20191008-acc7f3,0.22,0.14,0
+Kentucky Utilities,Ghent Generating Station,Ghent,Unit 2,unit-2-3cfa1a,waterwalls-e7688b,20190923-b6fbd7,0.22,0.15,0
+Kentucky Utilities,Ghent Generating Station,Ghent,Unit 2,unit-2-3cfa1a,lower-slopes-968292,20190924-87d0f8,0.188,0.12,0
+Southern Co,Plant Yates,Newnan,Unit 6,unit-6-0f16c9,coutant-slopes-99264e,20190920-f6a1e7,0.188,0.12,0
+Southern Co,Plant Yates,Newnan,Unit 6,unit-6-0f16c9,waterwalls-99ffd4,20190920-fd27a8,0.188,0.16,0
+East Kentucky Power Coop (EKPC),Cooper,Somerset,Unit 1,unit-1-92c17f,waterwalls-3a99bb,20190909-681391,0.203,0.15,0
+East Kentucky Power Coop (EKPC),Cooper,Somerset,Unit 1,unit-1-92c17f,slopes-6e386c,20190909-98dddb,0.203,0.15,0
+Southern Co,Plant Yates,Newnan,Unit 7,unit-7-18512e,waterwalls-999338,20190906-bae75b,0.188,0.1,0
+Southern Co,Plant Yates,Newnan,Unit 7,unit-7-18512e,coutant-slopes-0e4ffa,20190906-13ce98,0.188,0.1,0
+Colorado Springs Utilities,Ray Nixon Power Station,Fountain,Unit 1,unit-1-88d259,waterwalls-8dffbe,20190905-586293,0.203,0.101,0
+HECO,Kahe Power Plant,Kapolei,Unit 2,unit-2-cdf567,lower-slopes-aa9ae3,20190823-401c67,0.203,0.142,0
+HECO,Kahe Power Plant,Kapolei,Unit 2,unit-2-cdf567,water-walls-320d18,20190823-cd5cfb,0.203,0.142,0
+AES,Petersburg,Petersburg,Boiler U1,boiler-bb7dcf,horizontal-superheat-bundles-315666,20190820-e61a1f,0.203,0.15,0
+AES,Petersburg,Petersburg,Unit 2,boiler-u2-774f1a,waterwalls-c6a00f,20190728-1e1c04,0.206,0.16,0
+AES,Hawaii,Kapolei,Unit A,boiler-a-934982,waterwalls-2e3bab,20190607-269711,0.28,0.22,0
+AES,Hawaii,Kapolei,Unit B,boiler-b-2a16ff,waterwalls-6923b2,20190607-db1837,0.28,0.22,0
+AES,Hawaii,Kapolei,Unit A,boiler-a-934982,manway-2-ac330e,20190606-90e3f1,0,0,0
+AES,Hawaii,Kapolei,Unit A,boiler-a-934982,manway-3-c0f60a,20190607-dadf7e,0,0,0
+AES,Hawaii,Kapolei,Unit B,boiler-b-2a16ff,manway-4-a66c33,20190607-29fd1e,0,0,0
+AES,Hawaii,Kapolei,Unit B,boiler-b-2a16ff,manway-5-05910d,20190607-7f5ed7,0,0,0
+AES,Hawaii,Kapolei,Unit A,boiler-a-934982,manway-5-aa2da3,20190607-022baf,0,0,0
+AES,Hawaii,Kapolei,Unit A,boiler-a-934982,manway-6-f8bec6,20190607-72f43e,0,0,0
+AES,Hawaii,Kapolei,Unit A,boiler-a-934982,manway-7-65d1e0,20190607-8d3512,0,0,0
+AES,Hawaii,Kapolei,Unit A,boiler-a-934982,manway-8-19e7c9,20190607-843e89,0,0,0
+AES,Hawaii,Kapolei,Unit A,boiler-a-934982,manway-9-6786e6,20190607-a8fef9,0,0,0
+AES,Hawaii,Kapolei,Unit B,boiler-b-2a16ff,manway-6-6470c5,20190607-169c6f,0,0,0
+AES,Hawaii,Kapolei,Unit B,boiler-b-2a16ff,manway-9-fe7ae2,20190607-67aae8,0,0,0
+AES,Hawaii,Kapolei,Steamdrum A,steamdrum-a-ff8dd3,steamdrum-a-a473ba,20190607-264a83,0,0,0
+AES,Hawaii,Kapolei,Steamdrum B,steamdrum-b-fba478,steamdrum-b-a924ef,20190607-a20128,0,0,0
+AES,Plant Itabo,Santo Domingo,PC Boiler,waterwalls-393f7d,pc-boiler-1-ccf0ec,20190513-602dc6,0.229,0.18,0
+AES,Plant Itabo,Santo Domingo,PC Boiler,waterwalls-393f7d,lower-slopes-23237c,20190515-7630f1,0.229,0.18,0
+AES,Petersburg,Petersburg,Boiler U4,unit-4-boiler-48c567,boiler-8ec2af,20190508-bc9ac3,0.222,0.154,0
+Basin Electric Power Cooperative,Antelope Valley Station,Beulah,Unit 2 - PC Boiler,unit-2-57951f,waterwalls-06ff12,20190501-34c58f,0.22,0.169,0
+Basin Electric Power Cooperative,Antelope Valley Station,Beulah,Unit 2 - PC Boiler,unit-2-57951f,waterwalls-c6558c,20190501-61866f,0.22,0.143,0
+Duke Energy,Cayuga,Cayuga,Waterwalls,waterwalls-e3923d,pc-boiler-650b69,20190426-a9effa,0.22,0.154,0
+East Kentucky Power Coop (EKPC),Spurlock,Maysville,Unit 4,unit-4-5c6ce2,waterwalls-6eb75a,20190422-f7ee9c,0.26,0.234,0
+East Kentucky Power Coop (EKPC),Spurlock,Maysville,Unit 4,unit-4-5c6ce2,superheater-elements-aa1f0e,20190422-79bca8,0.17,0.1485,0
+East Kentucky Power Coop (EKPC),Spurlock,Maysville,Unit 4,unit-4-5c6ce2,evaporator-panels-0b33af,20190422-967037,0.3,0.234,0
+East Kentucky Power Coop (EKPC),Spurlock,Maysville,Unit 4,unit-4-5c6ce2,boiler-roof-039fca,20190422-b0917f,0.3,0.234,0
+Hallador Power Company,Merom Generating Station,Sullivan,Unit 1,unit-1-b4709b,waterwall-left-wall-e8046c,20190423-a5d1e7,0.385,0.25,0
+Hallador Power Company,Merom Generating Station,Sullivan,Unit 1,unit-1-b4709b,waterwall-right-wall-6da800,20190424-04b2ab,0.385,0.25,0
+Santee Cooper,Winyah,Georgetown,Unit 2 Boiler,unit-2-boiler-0cedf7,waterwalls-9552d4,20190416-ed7142,0.25,0.2,0
+Santee Cooper,Winyah,Georgetown,Unit 2 Boiler,unit-2-boiler-0cedf7,lower-slopes-e28651,20190416-f4e0d2,0.2,0.16,0
+Olympus Power,Panther Creek,Nesquehoning,CFB Boiler,cfb-boiler-21c2ef,toka4_waterwalls-c2fb9f,20190412-d45acf,0.221,0.18,0
+Olympus Power,Panther Creek,Nesquehoning,CFB Boiler,cfb-boiler-21c2ef,toka3_waterwalls-f9709d,20190412-0ce8d9,0.221,0.18,0
+Otter Tail Power Company,Coyote Power Station,Beulah,PC Boiler,pc-boiler-d88891,waterwalls-44c8e5,20190408-6ef89f,0.284,0.1988,0
+Otter Tail Power Company,Coyote Power Station,Beulah,PC Boiler,pc-boiler-d88891,upper-arch-0a92f4,20190408-2a21cc,0.26,0.182,0
+Otter Tail Power Company,Coyote Power Station,Beulah,PC Boiler,pc-boiler-d88891,lower-arch-9609c9,20190408-6b3f35,0.264,0.1848,0
+Otter Tail Power Company,Coyote Power Station,Beulah,PC Boiler,pc-boiler-d88891,slopes-667b84,20190408-b0d27c,0.284,0.1988,0
+Great River Energy,Coal Creek Station,Underwood,Unit 2,pc-boiler-bf6745,upper-arch-f90c18,20190404-b5c354,0.25,0.125,0
+Great River Energy,Coal Creek Station,Underwood,Unit 2,pc-boiler-bf6745,waterwall-demo-acd028,20190404-d50eab,0.188,0.94,0
+Evergy,Jeffrey Energy Center,Saint Marys,Unit 2,pc-boiler-037056,lower-slope-7dc953,20190326-fc801e,0.22,0.18,0
+Southern Co,Plant Bowen,Cartersville,Unit 4,unit-4-676260,waterwalls-4e3b7c,20190322-7563a3,0.238,0.17,0
+AEP,Conesville,Conesville,Unit 4,unit-4-f91b3d,lower-slopes-69d2a5,20190319-dd287e,0.203,0.159,0
+East Kentucky Power Coop (EKPC),Spurlock,Maysville,Unit 3,unit-3-937755,waterwalls-6eb5a8,20190318-28ae1e,0.26,0.234,0
+East Kentucky Power Coop (EKPC),Spurlock,Maysville,Unit 3,unit-3-937755,superheater-elements-a7998c,20190318-3a224b,0.17,0.13,0
+East Kentucky Power Coop (EKPC),Spurlock,Maysville,Unit 3,unit-3-937755,evaporator-panels-a78ec1,20190318-13620f,0.3,0.234,0
+East Kentucky Power Coop (EKPC),Spurlock,Maysville,Unit 3,unit-3-937755,boiler-roof-37d942,20190318-5316c5,0.26,0.234,0
+AES,Tamuin - TEG,TamuÃ­n,Boiler 1B,boiler-1a-f3a553,waterwalls-e23354,20190311-d526d9,0.165,0.132,0
+HECO,Kahe Power Plant,Kapolei,Unit 6,pc-boiler-d825d5,waterwalls-d282d2,20190310-86375a,0.203,0.15,0
+HECO,Kahe Power Plant,Kapolei,Unit 6,pc-boiler-d825d5,lower-slopes-3c422c,20190310-d05cfa,0.203,0.15,0
+CLP,Castle Peak Power Station,Hong Kong,Unit B2,unit-b2-260a0b,waterwalls-915ee1,20190226-123ece,0.275,0.23,0
+ALCOA,Warrick Power Station,Newburgh,Unit 2 Boiler,boiler-2-386985,waterwall-635ade,20190204-d08c55,0.24,0.1,0
+ALCOA,Warrick Power Station,Newburgh,Unit 2 Boiler,boiler-2-386985,division-wall-becbd7,20190206-d91636,0.24,0.19,0
+ALCOA,Warrick Power Station,Newburgh,Unit 2 Boiler,boiler-2-386985,bullnose-914e8e,20190206-7b2d77,0.28,0.192,0
+AES,Ventanas,Pittsburgh,Unit 3,unit-3-d7d618,front-2afa4d,20190114-1d914e,0.3,0,0
+Lansing Board of Water and Light,Erickson Power Station,Lansing,Unit 1,unit-1-2f7a66,waterwalls-d881b7,20181126-c25c8d,0.203,0.15,0
+Lansing Board of Water and Light,Erickson Power Station,Lansing,Unit 1,unit-1-2f7a66,lower-slopes-3b326c,20181126-b7b036,0.203,0.15,0
+Lansing Board of Water and Light,Erickson Power Station,Lansing,Unit 1,unit-1-2f7a66,division-wall-faca7c,20181126-f21948,0.203,0.15,0
+Purdue University,Wade Utility Plant,West Lafayette,Unit 5,unit-5-49ecf3,waterwalls-320ab0,20181119-889ea0,0.18,0.135,0.02
+CLP,Castle Peak Power Station,Hong Kong,Unit B3,unit-b3-b2c4c7,waterwalls-900ec6,20181105-23a07b,0.28,0.23,0
+Nebraska Public Power District,Sheldon Power Station,Hallam,Boiler 1,boiler-1-87780b,lower-slope-1af8de,20181029-949de3,0.24,0.2,0
+Nebraska Public Power District,Sheldon Power Station,Hallam,Boiler 1,boiler-1-87780b,waterwalls-fd4e09,20181029-ef0a03,0.165,0.146,0
+Southern Co,Plant Gaston,Wilsonville,Unit 5,unit-5-8632ca,waterwalls-e60154,20181028-f8cbb4,0.238,0.166,0
+Southern Co,Plant Gaston,Wilsonville,Unit 5,unit-5-8632ca,lower-slopes-456532,20181028-b16b2c,0.238,0.166,0
+AES,Petersburg,Petersburg,Boiler U1,boiler-bb7dcf,waterwalls-c2a87e,20181024-f08f05,0.22,0.18,0
+Southern Co,Plant Bowen,Cartersville,Unit 3,unit-3-2ec131,waterwalls-4cc190,20181012-ce779a,0.238,0.17,0
+"Ingredion, Inc.",Bedford Park,Bedford Park,Boiler 10,boiler-10-7055ca,waterwalls-2ae2c0,20181008-76db11,0.21,0.15,0
+"Ingredion, Inc.",Bedford Park,Bedford Park,Boiler 10,boiler-10-7055ca,wingwalls-2bcf71,20181008-eff850,0.21,0.15,0
+Iowa State University,Iowa State University,Ames,Boiler 2,boiler-2-f796c5,waterwalls-598880,20181008-95ebc6,0.2,0.18,0
+First Energy,Bruce Mansfield,Shippingport,Unit 3,unit-3-2e8253,lower-slopes-776ec7,20181007-b824f3,0.315,0.25,0
+First Energy,Bruce Mansfield,Shippingport,Unit 3,unit-3-2e8253,side-wall-6d4f88,20181007-ab6eeb,0.27,0.225,0
+Duke Energy,Cliffside,Mooresboro,Unit 6,unit-6-4ff210,waterwalls-3a874c,20181002-6204b4,0.224,0.125,0
+Duke Energy,Cliffside,Mooresboro,Unit 6,unit-6-4ff210,spiral-waterwalls-72fdf9,20181002-0edcdd,0.343,0.26,0
+AES,Warrior Run,Cumberland,Boiler 1,boiler-1-18ec02,evaporator-bank-1-2-3f0bc5,20180926-254609,0.195,0.125,0
+AES,Warrior Run,Cumberland,Boiler 1,boiler-1-18ec02,evaporator-bank-3-205c2c,20180926-ca61af,0.195,0.125,0
+First Energy,Harrison Power Station,Haywood,Demo Panel,demo-panel-ecb209,demo-panel-96ea73,20180913-9f2c07,0.203,0.07,0
+Southern Minnesota Beet Sugar Cooperative,Renville,Renville,Boiler 20,boiler-20-48f8ca,super-heaters-31d1ba,20180725-440f1b,0.18,0.153,0
+CLECO,Brame Energy Center,Lena,Boiler 32,boiler-32-9fb960,waterwalls-70114c,20180516-65bf95,0.25,0.2,0
+East Kentucky Power Coop (EKPC),Spurlock,Maysville,Unit 3,unit-3-937755,waterwalls-6eb5a8,20180501-cd0660,0.26,0.234,0
+East Kentucky Power Coop (EKPC),Spurlock,Maysville,Unit 3,unit-3-937755,superheater-elements-a7998c,20180501-50e698,0.17,0.13,0
+East Kentucky Power Coop (EKPC),Spurlock,Maysville,Unit 3,unit-3-937755,evaporator-panels-a78ec1,20180501-bfe192,0.3,0.234,0
+East Kentucky Power Coop (EKPC),Spurlock,Maysville,Unit 3,unit-3-937755,boiler-roof-37d942,20180501-9e52c4,0.26,0.234,0
+East Kentucky Power Coop (EKPC),Cooper,Somerset,Unit 1,unit-1-92c17f,waterwalls-3a99bb,20180424-5a41f3,0.203,0.15,0
+Southern Co,Plant Bowen,Cartersville,Unit 2,unit-2-d6bb3f,waterwalls-ba5c41,20180423-f78a24,0.268,0.17,0
+Southern Co,Plant Bowen,Cartersville,Unit 2,unit-2-d6bb3f,division-wall-b7ac2e,20180424-beb1fa,0.238,0.17,0
+AES,Warrior Run,Cumberland,Boiler 1,boiler-1-18ec02,evaporator-bank-1-2-3f0bc5,20180416-abc541,0.195,0.125,0
+AES,Warrior Run,Cumberland,Boiler 1,boiler-1-18ec02,waterwalls-571769,20180416-12319e,0.26,0.065,0.075
+AES,Warrior Run,Cumberland,Boiler 1,boiler-1-18ec02,evaporator-bank-3-205c2c,20180416-2118b9,0.195,0.125,0
+Hallador Power Company,Merom Generating Station,Sullivan,Unit 1,unit-1-b4709b,waterwalls-ca4fd0,20180416-efbd35,0.35,0.13,0
+Iowa State University,Iowa State University,Ames,Boiler 1,boiler-1-c46c45,waterwalls-ead658,20180412-94589a,0.225,0.15,0
+AEP,Conesville,Conesville,Unit 6,unit-6-163c22,side-walls-d876f6,20180411-3dc995,0.22,0.18,0
+CLP,Castle Peak Power Station,Hong Kong,Unit B1,unit-b1-7d747a,waterwalls-846aaf,20180410-f86f85,0.275,0.23,0
+AEP,Conesville,Conesville,Unit 5,unit-5-b70b76,lower-slopes-f16d02,20180404-be2b58,0.265,0.134,0
+AEP,Conesville,Conesville,Unit 5,unit-5-b70b76,waterwalls-c842b1,20180406-d909b9,0.265,0.1875,0
+East Kentucky Power Coop (EKPC),Spurlock,Maysville,Unit 4,unit-4-5c6ce2,waterwalls-6eb75a,20180327-babe1a,0.26,0.234,0
+East Kentucky Power Coop (EKPC),Spurlock,Maysville,Unit 4,unit-4-5c6ce2,superheater-elements-aa1f0e,20180327-52aa09,0.17,0.1485,0
+East Kentucky Power Coop (EKPC),Spurlock,Maysville,Unit 4,unit-4-5c6ce2,evaporator-panels-0b33af,20180327-8a3cdc,0.3,0.234,0
+East Kentucky Power Coop (EKPC),Spurlock,Maysville,Unit 4,unit-4-5c6ce2,boiler-roof-039fca,20180327-cf22b2,0.3,0.234,0
+Hallador Power Company,Merom Generating Station,Sullivan,Unit 2,unit-2-cc04f4,right-wall-4ee870,20180312-e0450f,0.28,0.16,0
+Hallador Power Company,Merom Generating Station,Sullivan,Unit 2,unit-2-cc04f4,left-wall-016813,20180312-5b9d1f,0.3,0.18,0
+Southern Co,Plant Bowen,Cartersville,Unit 1,unit-1-44431e,waterwalls-10a514,20180217-181c5b,0.268,0.17,0
+Southern Co,Plant Bowen,Cartersville,Unit 1,unit-1-44431e,division-wall-e286ac,20180217-11d514,0.25,0.18,0
+Southern Co,Plant Bowen,Cartersville,Unit 3,unit-3-2ec131,lower-slopes-80fb4e,20180213-e225e7,0.238,0.17,0
+Southern Co,Plant Bowen,Cartersville,Unit 3,unit-3-2ec131,upper-arch-85ae2f,20180125-514a8b,0.238,0.17,0
+CLP,Castle Peak Power Station,Hong Kong,Unit B4,boiler-7c9eaa,waterwalls-6f71af,20180123-152fc9,0.28,0.23,0
+Covanta,Haverhill,Haverhill,Boiler 1,boiler-ec4793,waterwalls-coating-thickness-db342b,20180110-d28267,0,10,0.085
+Southern Co,Plant Bowen,Cartersville,Unit 1,unit-1-44431e,lower-slopes-fc5fee,20171128-9ee0a5,0.22,0.17,0
+Southern Co,Plant Bowen,Cartersville,Unit 1,unit-1-44431e,bullnose-94b9e1,20171130-b77eb6,0.238,0.17,0
+Southern Co,Plant Bowen,Cartersville,Unit 4,unit-4-676260,lower-slopes-afd602,20171120-1eb3c7,0.238,0.17,0
+First Energy,Harrison Power Station,Haywood,Unit 1,unit-1-7ebc6a,waterwall-754ed3,20171104-39b30c,0.203,0.07,0
+Ebensburg Power Company,Ebensburg,Ebensburg,Unit 1,unit-10-5b3dfa,waterwalls-94d724,20171103-e6ba11,0.24,0.165,0
+Ebensburg Power Company,Ebensburg,Ebensburg,Unit 1,unit-10-5b3dfa,division-walls-551bb2,20171103-8bf789,0.24,0.168,0
+Ebensburg Power Company,Ebensburg,Ebensburg,Unit 1,unit-10-5b3dfa,wingwalls-a5793e,20171103-850446,0.24,0.168,0
+"Ingredion, Inc.",Bedford Park,Bedford Park,Boiler 10,boiler-10-7055ca,waterwalls-2ae2c0,20171023-158e37,0.21,0.15,0
+"Ingredion, Inc.",Bedford Park,Bedford Park,Boiler 10,boiler-10-7055ca,wingwalls-2bcf71,20171023-77fc27,0.21,0.15,0
+Talen Energy,Colstrip,Colstrip,Boiler 1,unit-1-16558c,waterwalls-115d0f,20171018-b24ffd,0.22,0.15,0
+CLECO,Brame Energy Center,Lena,Boiler 31,boiler-31-c16302,waterwalls-5e3a6c,20171012-3ee5d7,0.25,0.2,0
+East Kentucky Power Coop (EKPC),Spurlock,Maysville,Unit 2,unit-2-2b2835,waterwalls-08309d,20170928-3f9322,0.25,0.15,0
+Great River Energy,Spiritwood,Spiritwood,Boiler 1,boiler-1-ee54d2,waterwalls-32839e,20170914-b05e6e,0.24,0.17,0.015
+Great River Energy,Spiritwood,Spiritwood,Boiler 1,boiler-1-ee54d2,division-walls-ae7e67,20170914-f3ed61,0.24,0.17,0.015
+Archer Daniels Midland (ADM),Cedar Rapids,Cedar Rapids,Boiler 1,boiler-1-15ba41,waterwalls-a621d1,20170820-59ca5f,0.23,0.17,0.025
+Archer Daniels Midland (ADM),Cedar Rapids,Cedar Rapids,Boiler 1,boiler-1-15ba41,wingwalls-494b3f,20170820-db2009,0.23,0.17,0.025
+East Kentucky Power Coop (EKPC),Spurlock,Maysville,Unit 1,unit-1-12a6a5,coutant-slopes-33dff6,20170523-1948fb,0.284,0.109,0
+Hallador Power Company,Merom Generating Station,Sullivan,Unit 1,unit-1-b4709b,waterwalls-ca4fd0,20170515-14f248,0.35,0.13,0
+East Kentucky Power Coop (EKPC),Spurlock,Maysville,Unit 3,unit-3-937755,waterwalls-6eb5a8,20170501-d06a6c,0.26,0.234,0
+East Kentucky Power Coop (EKPC),Spurlock,Maysville,Unit 3,unit-3-937755,superheater-elements-a7998c,20170502-98bade,0.17,0.13,0
+East Kentucky Power Coop (EKPC),Spurlock,Maysville,Unit 3,unit-3-937755,evaporator-panels-a78ec1,20170502-3233b3,0.3,0.234,0
+AES,Warrior Run,Cumberland,Boiler 1,boiler-1-18ec02,evaporator-bank-1-2-3f0bc5,20170427-4b31bf,0.195,0.125,0
+AES,Warrior Run,Cumberland,Boiler 1,boiler-1-18ec02,waterwalls-571769,20170427-cc80b8,0.26,0.065,0.075
+AES,Warrior Run,Cumberland,Boiler 1,boiler-1-18ec02,evaporator-bank-3-205c2c,20170425-33a954,0.195,0.125,0
+East Kentucky Power Coop (EKPC),Spurlock,Maysville,Unit 4,unit-4-5c6ce2,waterwalls-6eb75a,20170327-f1495d,0.26,0.234,0
+East Kentucky Power Coop (EKPC),Spurlock,Maysville,Unit 4,unit-4-5c6ce2,superheater-elements-aa1f0e,20170327-53a53b,0.17,0.1485,0
+East Kentucky Power Coop (EKPC),Spurlock,Maysville,Unit 4,unit-4-5c6ce2,evaporator-panels-0b33af,20170327-c7bcea,0.3,0.234,0
+East Kentucky Power Coop (EKPC),Spurlock,Maysville,Unit 2,unit-2-2b2835,north-coutant-slope-4016ef,20170316-e4aa87,0.25,0.109,0
+East Kentucky Power Coop (EKPC),Spurlock,Maysville,Unit 2,unit-2-2b2835,south-coutant-slope-bd2689,20170317-e033fe,0.25,0.109,0
+Vistra Luminant Energy,Sandow,Rockdale,Boiler 5A,boiler-5a-1270d5,waterwalls-e99901,20170311-e152db,0.23,0.17,0.03
+"Ingredion, Inc.",Bedford Park,Bedford Park,Boiler 10,boiler-10-7055ca,waterwalls-2ae2c0,20161025-3219a1,0.21,0.15,0
+University of North Carolina (UNC),Chapel Hill,Chapel Hill,Boiler 6 - 2016,boiler-6-0f5b4b,waterwalls-c2564d,20160914-808361,0.25,0.15,0
+University of North Carolina (UNC),Chapel Hill,Chapel Hill,Boiler 7 - 2016,boiler-7-2016-5a769f,waterwalls-ff4abb,20160414-c08dfd,0.25,,

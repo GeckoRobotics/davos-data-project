@@ -12,7 +12,10 @@ prod = {
 }
 
 # headers
-headers = {"accept": "application/json", "Authorization": f"Bearer {prod['token']}"}
+headers = {
+    "accept": "application/json", 
+    "Authorization": f"Bearer {prod['token']}"
+}
 
 
 # simplest request inspection df from portal service
@@ -246,6 +249,9 @@ def get_thickness_histogram(targets_df):
             nominal = 0.28
         if inspection_slug in hallador_unit_2:
             nominal = 0.26
+        # hack gibson slopes nominal
+        if inspection_slug == '20221004-565f7b':
+            nominal = 0.203
         # end hackery for bad nominals
 
         # req for inspection data
@@ -258,9 +264,12 @@ def get_thickness_histogram(targets_df):
 
                 # analyze the df returned
                 min_t, max_t, tubes_inspected, bins_collected, tube_hist_bin_counts, bin_hist_bin_counts = hist_inspection_df(inspection_df, nominal)
+                
+                # add 40%loss per 10k bins stat:
+                crits_per10k = round(((bin_hist_bin_counts[3])/bins_collected)*10000)
 
                 # convert to a row
-                data = [inspection_slug, nominal, min_t, max_t, tubes_inspected, bins_collected] + tube_hist_bin_counts + bin_hist_bin_counts
+                data = [inspection_slug, nominal, min_t, max_t, tubes_inspected, bins_collected, crits_per10k] + tube_hist_bin_counts + bin_hist_bin_counts
 
                 # append row to list
                 data_list.append(data)
@@ -279,6 +288,7 @@ def get_thickness_histogram(targets_df):
         'max_t', 
         'tubes_inspected', 
         'bins_collected',
+        'crits_per10k',
         'Tubes w 10% Loss',
         'Tubes w 20% Loss',
         'Tubes w 30% Loss',

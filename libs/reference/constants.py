@@ -13,6 +13,21 @@ COMPONENT_TYPE_MAP = {
 }
 
 
+# Gecko customers identified as paper customers
+PAPER_CUST_LIST = [
+    'Clearwater Paper',
+    'Domtar',
+    'Evergreen Packaging',
+    'Georgia Pacific',
+    'Huber Engineered Woods',
+    'International Paper',
+    'Packaging Corporation of America',
+    'Pixelle Specialty Solutions',
+    'Rayonier Advanced Materials',
+    'Westrock'
+]
+
+
 # Gecko customers identified as power companies
 POWER_CUST_LIST = [
     'AEP',
@@ -25,6 +40,7 @@ POWER_CUST_LIST = [
     'NRG',
     'Southern Co'
 ]
+
 
 # some assumed conversions
 DOLLARS_PER_MWH = 40

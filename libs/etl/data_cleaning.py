@@ -59,6 +59,8 @@ def determine_component(string):
         component_type = 'Backpass'
     if 'superheater' in str(string).lower():
         component_type = 'Backpass'
+    if 'steamdrum' in str(string).lower():
+        component_type = 'Steamdrum'
         
     if component_type == 'Other':
         str_list = string.lower().split('-')[:-1]

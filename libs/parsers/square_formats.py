@@ -235,7 +235,8 @@ class SquareData:
         buf = buf[1 :]
         
         # get gates
-        self.gates = Gates(buf)
+        gates_data = Gates(buf)
+        self.gates = gates_data
         
 
         
